@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Teleports xmlns="http://TeleportCalculator/TeleportSchema.xsd" Version ="1.0">
+  <TeleportPoint>
+    <ID>0</ID>
+    <X>21</X>
+    <Y>87</Y>
+    <TeleportCost>
+      <ID>0</ID>
+      <Cost>23</Cost>
+    </TeleportCost>
+    <TeleportCost >
+      <ID>1</ID>
+      <Cost>2</Cost>
+    </TeleportCost>
+  </TeleportPoint>
+  <TeleportPoint >
+    <ID >
+    </ID>
+    <X >
+    </X>
+    <Y></Y>
+    <TeleportCost>
+      <ID >
+      </ID>
+      <Cost>
+      </Cost>
+    </TeleportCost>
+  </TeleportPoint>
+</Teleports>

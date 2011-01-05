@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SettingsSchema" targetNamespace="http://TeleportCalculator/SettingsSchema.xsd" elementFormDefault="qualified" xmlns="http://TeleportCalculator/SettingsSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Settings">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Servers">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Flag" maxOccurs ="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Name" type="xs:string" />
+                    <xs:element name="Culture" type="xs:string" />
+                  </xs:sequence >
+                  <xs:attribute name ="Image" type ="xs:string "/>
+                </xs:complexType >
+              </xs:element>
+            </xs:sequence >
+          </xs:complexType >
+        </xs:element >
+      </xs:sequence>
+      <xs:attribute name ="Version" type ="xs:string "/>
+    </xs:complexType >
+  </xs:element >
+</xs:schema>

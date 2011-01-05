@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns="http://TeleportCalculator/TranslationSchema.xsd" Version="1.0" Culture="">
+  <Translation>
+    <ID>0</ID>
+    <Name>East Barrier Village</Name>
+  </Translation>
+  <Translation>
+    <ID>1</ID>
+    <Name>Sanctuary</Name>
+  </Translation>
+  <Translation>
+    <ID>2</ID>
+    <Name>Archosaur, West District</Name>
+  </Translation>
+  <Translation>
+    <ID>3</ID>
+    <Name>Archosaur, North District</Name>
+  </Translation>
+  <Translation>
+    <ID>4</ID>
+    <Name>Archosaur, South District</Name>
+  </Translation>
+  <Translation>
+    <ID>5</ID>
+    <Name>City of a Thousand Streams</Name>
+  </Translation>
+  <Translation>
+    <ID>6</ID>
+    <Name>Tusk Town</Name>
+  </Translation>
+  <Translation>
+    <ID>7</ID>
+    <Name>Etherblade</Name>
+  </Translation>
+  <Translation>
+    <ID>8</ID>
+    <Name>City of the Lost</Name>
+  </Translation>
+  <Translation>
+    <ID>9</ID>
+    <Name>City of the Plume</Name>
+  </Translation>
+  <Translation>
+    <ID>10</ID>
+    <Name>Village of Brutes</Name>
+  </Translation>
+  <Translation>
+    <ID>11</ID>
+    <Name>Avalanche Village</Name>
+  </Translation>
+  <Translation>
+    <ID>12</ID>
+    <Name>Immolation Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>13</ID>
+    <Name>Hidden Orchid</Name>
+  </Translation>
+  <Translation>
+    <ID>14</ID>
+    <Name>Sandsong Village</Name>
+  </Translation>
+  <Translation>
+    <ID>15</ID>
+    <Name>Angler's Village</Name>
+  </Translation>
+  <Translation>
+    <ID>16</ID>
+    <Name>Village of the Dreaming Cloud</Name>
+  </Translation>
+  <Translation>
+    <ID>17</ID>
+    <Name>Sirry Wine Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>18</ID>
+    <Name>Dragon's End</Name>
+  </Translation>
+  <Translation>
+    <ID>19</ID>
+    <Name>Arrowhead Manor</Name>
+  </Translation>
+  <Translation>
+    <ID>20</ID>
+    <Name>Gate of Antiquity</Name>
+  </Translation>
+  <Translation>
+    <ID>21</ID>
+    <Name>Whetstone Keep</Name>
+  </Translation>
+  <Translation>
+    <ID>22</ID>
+    <Name>Walled Stronghold</Name>
+  </Translation>
+  <Translation>
+    <ID>23</ID>
+    <Name>Camp of the Intrepid</Name>
+  </Translation>
+  <Translation>
+    <ID>24</ID>
+    <Name>Sumor Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>25</ID>
+    <Name>Allies Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>26</ID>
+    <Name>Village of Shattered Ice</Name>
+  </Translation>
+  <Translation>
+    <ID>27</ID>
+    <Name>Timberfield</Name>
+  </Translation>
+  <Translation>
+    <ID>28</ID>
+    <Name>Cromagnon Village</Name>
+  </Translation>
+  <Translation>
+    <ID>29</ID>
+    <Name>Town of Arrivals</Name>
+  </Translation>
+  <Translation>
+    <ID>30</ID>
+    <Name>Swiftwind Tribe</Name>
+  </Translation>
+  <Translation>
+    <ID>31</ID>
+    <Name>Dreamweaver Port</Name>
+  </Translation>
+  <Translation>
+    <ID>32</ID>
+    <Name>Wellspring Village</Name>
+  </Translation>
+  <Translation>
+    <ID>33</ID>
+    <Name>Tradewind Village</Name>
+  </Translation>
+  <Translation>
+    <ID>34</ID>
+    <Name>Bamboo Village</Name>
+  </Translation>
+  <Translation>
+    <ID>35</ID>
+    <Name>Broken Bridge Village</Name>
+  </Translation>
+  <Translation>
+    <ID>36</ID>
+    <Name>The Silver Pool </Name>
+  </Translation>
+  <Translation>
+    <ID>37</ID>
+    <Name>Village of the Lost</Name>
+  </Translation>
+  <Translation>
+    <ID>38</ID>
+    <Name>City of Misfortune</Name>
+  </Translation>
+  <Translation>
+    <ID>39</ID>
+    <Name>North Barrier Village</Name>
+  </Translation>
+  <Translation>
+    <ID>40</ID>
+    <Name>Snowy Village</Name>
+  </Translation>
+  <Translation>
+    <ID>41</ID>
+    <Name>Hidden Heroes Village</Name>
+  </Translation>
+  <Translation>
+    <ID>42</ID>
+    <Name>King's Feast</Name>
+  </Translation>
+  <Translation>
+    <ID>43</ID>
+    <Name>The Village of Naught</Name>
+  </Translation>
+  <Translation>
+    <ID>44</ID>
+    <Name>Sundown Town</Name>
+  </Translation>
+  <Translation>
+    <ID>45</ID>
+    <Name>Orchid Temple</Name>
+  </Translation>
+  <Translation>
+    <ID>46</ID>
+    <Name>South Barrier Village</Name>
+  </Translation>
+  <Translation>
+    <ID>47</ID>
+    <Name>Dreaming Stronghold</Name>
+  </Translation>
+  <Translation>
+    <ID>48</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>49</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>50</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>51</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>52</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>53</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>54</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>55</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+  <Translation>
+    <ID>56</ID>
+    <Name>Khatru Pup</Name>
+  </Translation>
+</Translations>

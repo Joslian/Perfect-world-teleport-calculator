@@ -1,0 +1,17 @@
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\TeleportCalculator.exe
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\TeleportCalculator.pdb
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\TeleportCalculator.FrmMain.resources
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\TeleportCalculator.Properties.Resources.resources
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\TeleportCalculator.csproj.GenerateResource.Cache
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\TeleportCalculator.exe
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\obj\Debug\TeleportCalculator.pdb
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\TeleportCalculator.exe.config
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Schemata\SettingsSchema.xsd
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Settings.xml
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\european_union.gif
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\malaysia.gif
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\russian.gif
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\usa.gif
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\teleporter.jpg
+D:\Projects\C#\TeleportCalculator\TeleportCalculator\bin\Debug\Images\philippines.gif

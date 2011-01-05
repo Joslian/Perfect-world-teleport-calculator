@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns="http://TeleportCalculator/TranslationSchema.xsd" Version="1.0" Culture="ru">
+  <Translation>
+    <ID>0</ID>
+    <Name>Восточный город</Name>
+  </Translation>
+  <Translation>
+    <ID>1</ID>
+    <Name>Город Аркадия</Name>
+  </Translation>
+  <Translation>
+    <ID>2</ID>
+    <Name>Город Драконов - Запад</Name>
+  </Translation>
+  <Translation>
+    <ID>3</ID>
+    <Name>Город Драконов - Север</Name>
+  </Translation>
+  <Translation>
+    <ID>4</ID>
+    <Name>Город Драконов - Юг</Name>
+  </Translation>
+  <Translation>
+    <ID>5</ID>
+    <Name>Город истоков</Name>
+  </Translation>
+  <Translation>
+    <ID>6</ID>
+    <Name>Город Клык</Name>
+  </Translation>
+  <Translation>
+    <ID>7</ID>
+    <Name>Город мечей</Name>
+  </Translation>
+  <Translation>
+    <ID>8</ID>
+    <Name>Город Оборотней</Name>
+  </Translation>
+  <Translation>
+    <ID>9</ID>
+    <Name>Город Перьев</Name>
+  </Translation>
+  <Translation>
+    <ID>10</ID>
+    <Name>Деревня дикарей</Name>
+  </Translation>
+  <Translation>
+    <ID>11</ID>
+    <Name>Деревня лавин</Name>
+  </Translation>
+  <Translation>
+    <ID>12</ID>
+    <Name>Деревня огня</Name>
+  </Translation>
+  <Translation>
+    <ID>13</ID>
+    <Name>Деревня орхидей</Name>
+  </Translation>
+  <Translation>
+    <ID>14</ID>
+    <Name>Деревня поющих песков</Name>
+  </Translation>
+  <Translation>
+    <ID>15</ID>
+    <Name>Деревня рыбаков</Name>
+  </Translation>
+  <Translation>
+    <ID>16</ID>
+    <Name>Деревня снов</Name>
+  </Translation>
+  <Translation>
+    <ID>17</ID>
+    <Name>Деревня соблазна</Name>
+  </Translation>
+  <Translation>
+    <ID>18</ID>
+    <Name>Длинный откос</Name>
+  </Translation>
+  <Translation>
+    <ID>19</ID>
+    <Name>Дом стрел</Name>
+  </Translation>
+  <Translation>
+    <ID>20</ID>
+    <Name>Древнее ущелье</Name>
+  </Translation>
+  <Translation>
+    <ID>21</ID>
+    <Name>Каменная стена</Name>
+  </Translation>
+  <Translation>
+    <ID>22</ID>
+    <Name>Крепость-Компас</Name>
+  </Translation>
+  <Translation>
+    <ID>23</ID>
+    <Name>Лагерь бродяг</Name>
+  </Translation>
+  <Translation>
+    <ID>24</ID>
+    <Name>Лагерь водопада</Name>
+  </Translation>
+  <Translation>
+    <ID>25</ID>
+    <Name>Лагерь союзников</Name>
+  </Translation>
+  <Translation>
+    <ID>26</ID>
+    <Name>Ледяной поселок</Name>
+  </Translation>
+  <Translation>
+    <ID>27</ID>
+    <Name>Лесопильня</Name>
+  </Translation>
+  <Translation>
+    <ID>28</ID>
+    <Name>Ночная деревня</Name>
+  </Translation>
+  <Translation>
+    <ID>29</ID>
+    <Name>Парящий город</Name>
+  </Translation>
+  <Translation>
+    <ID>30</ID>
+    <Name>Племя ветров</Name>
+  </Translation>
+  <Translation>
+    <ID>31</ID>
+    <Name>Порт Мечты</Name>
+  </Translation>
+  <Translation>
+    <ID>32</ID>
+    <Name>Портовый город</Name>
+  </Translation>
+  <Translation>
+    <ID>33</ID>
+    <Name>Поселок ветров</Name>
+  </Translation>
+  <Translation>
+    <ID>34</ID>
+    <Name>Поселок надежды</Name>
+  </Translation>
+  <Translation>
+    <ID>35</ID>
+    <Name>Поселок у моста</Name>
+  </Translation>
+  <Translation>
+    <ID>36</ID>
+    <Name>Поселок у озера</Name>
+  </Translation>
+  <Translation>
+    <ID>37</ID>
+    <Name>Потерянное селение</Name>
+  </Translation>
+  <Translation>
+    <ID>38</ID>
+    <Name>Роковой город</Name>
+  </Translation>
+  <Translation>
+    <ID>39</ID>
+    <Name>Северный город</Name>
+  </Translation>
+  <Translation>
+    <ID>40</ID>
+    <Name>Снежная деревня</Name>
+  </Translation>
+  <Translation>
+    <ID>41</ID>
+    <Name>Тайная деревня</Name>
+  </Translation>
+  <Translation>
+    <ID>42</ID>
+    <Name>Тренога Юй-вана</Name>
+  </Translation>
+  <Translation>
+    <ID>43</ID>
+    <Name>Усталая деревня</Name>
+  </Translation>
+  <Translation>
+    <ID>44</ID>
+    <Name>Форпост заката</Name>
+  </Translation>
+  <Translation>
+    <ID>45</ID>
+    <Name>Храм Орхидей</Name>
+  </Translation>
+  <Translation>
+    <ID>46</ID>
+    <Name>Южный город</Name>
+  </Translation>
+  <Translation>
+    <ID>47</ID>
+    <Name>Южный лагерь</Name>
+  </Translation>
+  <Translation>
+    <ID>48</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>49</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>50</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>51</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>52</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>53</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>54</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>55</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+  <Translation>
+    <ID>56</ID>
+    <Name>Волчонок</Name>
+  </Translation>
+</Translations>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns="http://TeleportCalculator/SettingsSchema.xsd" Version ="1.0" >
+  <Servers>
+    <Flag Image ="russian.gif">
+      <Name>Русский</Name>
+      <Culture>ru</Culture>
+    </Flag>
+    <Flag Image ="malaysia.gif">
+      <Name>Multilanguage Service/Malaysian</Name>
+      <Culture>ms</Culture>
+    </Flag>
+    <Flag Image ="european_union.gif">
+      <Name>International</Name>
+      <Culture></Culture>
+    </Flag>
+    <Flag Image="philippines.gif">
+      <Name>Philippines</Name>
+      <Culture>en-PH</Culture>
+    </Flag>
+  </Servers>
+</Settings>

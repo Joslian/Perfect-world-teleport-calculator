@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns="http://TeleportCalculator/TranslationSchema.xsd" Version="1.0" Culture="en-PH">
+  <Translation>
+    <ID>0</ID>
+    <Name>Dongpin Town</Name>
+  </Translation>
+  <Translation>
+    <ID>1</ID>
+    <Name>Arcadia Town</Name>
+  </Translation>
+  <Translation>
+    <ID>2</ID>
+    <Name>Archosaur City W.</Name>
+  </Translation>
+  <Translation>
+    <ID>3</ID>
+    <Name>Archosaur City N.</Name>
+  </Translation>
+  <Translation>
+    <ID>4</ID>
+    <Name>Archosaur City S.</Name>
+  </Translation>
+  <Translation>
+    <ID>5</ID>
+    <Name>Universal City</Name>
+  </Translation>
+  <Translation>
+    <ID>6</ID>
+    <Name>Tusk Town</Name>
+  </Translation>
+  <Translation>
+    <ID>7</ID>
+    <Name>Sword City</Name>
+  </Translation>
+  <Translation>
+    <ID>8</ID>
+    <Name>Evil City</Name>
+  </Translation>
+  <Translation>
+    <ID>9</ID>
+    <Name>Feather City</Name>
+  </Translation>
+  <Translation>
+    <ID>10</ID>
+    <Name>Swan Mountain</Name>
+  </Translation>
+  <Translation>
+    <ID>11</ID>
+    <Name>Snowslide Village</Name>
+  </Translation>
+  <Translation>
+    <ID>12</ID>
+    <Name>Fire Village</Name>
+  </Translation>
+  <Translation>
+    <ID>13</ID>
+    <Name>Orchid Village</Name>
+  </Translation>
+  <Translation>
+    <ID>14</ID>
+    <Name>Sand Village</Name>
+  </Translation>
+  <Translation>
+    <ID>15</ID>
+    <Name>Fishing Village</Name>
+  </Translation>
+  <Translation>
+    <ID>16</ID>
+    <Name>Dream Village</Name>
+  </Translation>
+  <Translation>
+    <ID>17</ID>
+    <Name>Beauty Hu Village</Name>
+  </Translation>
+  <Translation>
+    <ID>18</ID>
+    <Name>Dragon Slope</Name>
+  </Translation>
+  <Translation>
+    <ID>19</ID>
+    <Name>Sword Villa</Name>
+  </Translation>
+  <Translation>
+    <ID>20</ID>
+    <Name>Ancient Wind-Gap</Name>
+  </Translation>
+  <Translation>
+    <ID>21</ID>
+    <Name>Rubstone Village</Name>
+  </Translation>
+  <Translation>
+    <ID>22</ID>
+    <Name>Square Village</Name>
+  </Translation>
+  <Translation>
+    <ID>23</ID>
+    <Name>Expedition Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>24</ID>
+    <Name>Sumer Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>25</ID>
+    <Name>Allied-Troops' Camp</Name>
+  </Translation>
+  <Translation>
+    <ID>26</ID>
+    <Name>Ice Village</Name>
+  </Translation>
+  <Translation>
+    <ID>27</ID>
+    <Name>Logging Shed</Name>
+  </Translation>
+  <Translation>
+    <ID>28</ID>
+    <Name>Yelang Village</Name>
+  </Translation>
+  <Translation>
+    <ID>29</ID>
+    <Name>Flyed-over Town</Name>
+  </Translation>
+  <Translation>
+    <ID>30</ID>
+    <Name>High-Wind Tribe</Name>
+  </Translation>
+  <Translation>
+    <ID>31</ID>
+    <Name>Dream Port</Name>
+  </Translation>
+  <Translation>
+    <ID>32</ID>
+    <Name>Near-Water Town</Name>
+  </Translation>
+  <Translation>
+    <ID>33</ID>
+    <Name>Trade-Wind Town</Name>
+  </Translation>
+  <Translation>
+    <ID>34</ID>
+    <Name>Bamboo Village</Name>
+  </Translation>
+  <Translation>
+    <ID>35</ID>
+    <Name>Broken Bridge Village</Name>
+  </Translation>
+  <Translation>
+    <ID>36</ID>
+    <Name>Mirror-Lake Residence</Name>
+  </Translation>
+  <Translation>
+    <ID>37</ID>
+    <Name>Lost Village</Name>
+  </Translation>
+  <Translation>
+    <ID>38</ID>
+    <Name>Doomed City</Name>
+  </Translation>
+  <Translation>
+    <ID>39</ID>
+    <Name>Beiping Town</Name>
+  </Translation>
+  <Translation>
+    <ID>40</ID>
+    <Name>Snowfall Land</Name>
+  </Translation>
+  <Translation>
+    <ID>41</ID>
+    <Name>Eremites Village</Name>
+  </Translation>
+  <Translation>
+    <ID>42</ID>
+    <Name>King-Yu-Tripod Land</Name>
+  </Translation>
+  <Translation>
+    <ID>43</ID>
+    <Name>Inaction Village</Name>
+  </Translation>
+  <Translation>
+    <ID>44</ID>
+    <Name>Sunset Town</Name>
+  </Translation>
+  <Translation>
+    <ID>45</ID>
+    <Name>Orchid Temple</Name>
+  </Translation>
+  <Translation>
+    <ID>46</ID>
+    <Name>Nanping Town</Name>
+  </Translation>
+  <Translation>
+    <ID>47</ID>
+    <Name>Nanke Village</Name>
+  </Translation>
+  <Translation>
+    <ID>48</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>49</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>50</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>51</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>52</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>53</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>54</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>55</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+  <Translation>
+    <ID>56</ID>
+    <Name>Wolf cub</Name>
+  </Translation>
+</Translations>

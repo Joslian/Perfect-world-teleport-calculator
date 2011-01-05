@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExcelConverter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XmlPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..\..\TeleportCalculator\bin\Debug\</Value>
+    </Setting>
+    <Setting Name="XmlCostsName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Costs.xml</Value>
+    </Setting>
+    <Setting Name="TranslationsFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Translations</Value>
+    </Setting>
+    <Setting Name="TeleportSchemaXmlns" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://TeleportCalculator/TeleportSchema.xsd</Value>
+    </Setting>
+    <Setting Name="TranslationSchemaXmlns" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://TeleportCalculator/TranslationSchema.xsd</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

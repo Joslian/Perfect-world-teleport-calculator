@@ -1,0 +1,7 @@
+D:\Projects\C#\TeleportCalculator\ExcelConverter\bin\Release\ExcelConverter.exe.config
+D:\Projects\C#\TeleportCalculator\ExcelConverter\bin\Release\ExcelConverter.exe
+D:\Projects\C#\TeleportCalculator\ExcelConverter\bin\Release\ExcelConverter.pdb
+D:\Projects\C#\TeleportCalculator\ExcelConverter\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\C#\TeleportCalculator\ExcelConverter\obj\Release\ExcelConverter.csproj.ResolveComReference.cache
+D:\Projects\C#\TeleportCalculator\ExcelConverter\obj\Release\ExcelConverter.exe
+D:\Projects\C#\TeleportCalculator\ExcelConverter\obj\Release\ExcelConverter.pdb

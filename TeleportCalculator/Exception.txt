@@ -1,0 +1,12 @@
+System.InvalidOperationException was unhandled
+  Message="Object is currently in use elsewhere."
+  Source="System.Drawing"
+  StackTrace:
+       at System.Drawing.Graphics.CheckErrorStatus(Int32 status)
+       at System.Drawing.Graphics.FillRectangle(Brush brush, Int32 x, Int32 y, Int32 width, Int32 height)
+       at TeleportCalculator.Renderer.ProcessMouseCoordinates(Object stateInfo) in D:\Projects\C#\TeleportCalculator\TeleportCalculator\Renderer.cs:line 31
+       at System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+       at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+       at System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+       at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+  InnerException: 
